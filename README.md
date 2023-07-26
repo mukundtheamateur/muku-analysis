@@ -13,3 +13,9 @@ https://drive.google.com/drive/folders/1OlZMin_rtjOKIOtxijkaI2os4Kuc0qsS?usp=sha
 5.	You have to analyze both the datasets and compare them.
 6.	You will present your result in the form of a webpage.
 
+# PULL REQUEST FORMAT: 
+
+Create a seperate folder with you name and upload your solution on that same folder 
+
+MAY THE SOURCE BE WITH YOU !! 
+
